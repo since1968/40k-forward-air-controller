@@ -1,4 +1,4 @@
-# Forward Obversation Officer
+# Forward Observation Officer
 
 Replacement for Master of Ordnance unit
 
